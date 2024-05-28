@@ -1,7 +1,7 @@
-### Oi, eu sou o Daniel Lucas👋
+### Hello Word, I'm Daniel Lucas👋
 
-- 🔭 Hoje procuro emprego como estágiario para implementar meu curso no Senai de Desenvolvimento de Sistemas.
-- 🌱 Atualmente estou aprendendo sobre frontend, linguagens como(HTML,CSS,JAVASCRIPT)..
+- 🔭 Hoje procuro emprego como estágiario ou desenvolvedor web fullstack Jr. 
+- 🌱 Atualmente estou aprendendo sobre frontend, linguagens como(HTML,CSS,JAVASCRIPT,React) e também aprendendo sobre Java.
 - 📫 me chame pelo email: daniellucaspc@hotmail.com
 
 <div align="center">
