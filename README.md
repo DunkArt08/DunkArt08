@@ -1,6 +1,6 @@
 ### Hello Word, I'm Daniel Lucas👋
 
-- ☕ transformo café em código de JAVA/ I turn coffe in JAVA code.
+- ☕ transformo café em código/ I turn coffe in code.
 - 🌱 Atualmente estou aprendendo sobre frontend, linguagens como(HTML,CSS,JAVASCRIPT,React).
 - 🔭 Hoje procuro emprego como estágiario ou desenvolvedor web fullstack Jr.
 - 📫 me chame pelo email: daniellucaspc@hotmail.com
